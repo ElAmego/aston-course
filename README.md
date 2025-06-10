@@ -16,7 +16,7 @@ Interfaces:
 Swimmable
 
 Classes components:
-Spine
+Spine, 
 Wool
 
 ## Second.java
@@ -36,7 +36,7 @@ Vehicle (abstract)
 └── Taxi (implements HasWheels)
 
 Interfaces:
-HasWheels
-HasRotter
-HasWings
+HasWheels, 
+HasRotter, 
+HasWings, 
 CargoVehicle
