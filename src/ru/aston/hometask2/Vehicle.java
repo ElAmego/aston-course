@@ -1,4 +1,4 @@
-package dz2;
+package ru.aston.hometask2;
 
 public abstract class Vehicle {
     private String name;

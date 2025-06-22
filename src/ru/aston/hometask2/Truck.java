@@ -1,4 +1,4 @@
-package dz2;
+package ru.aston.hometask2;
 
 public class Truck extends Vehicle implements HasWheels, CargoVehicle {
     public Truck(final String name, final int year) {

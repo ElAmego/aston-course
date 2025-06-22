@@ -1,4 +1,4 @@
-package dz2;
+package ru.aston.hometask2;
 
 public class Airplane extends Vehicle implements HasWheels, HasRotor, HasWings, CargoVehicle {
     public Airplane(final String name, final int year) {

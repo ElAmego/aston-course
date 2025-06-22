@@ -1,4 +1,4 @@
-package dz2;
+package ru.aston.hometask2;
 
 public class Tanker extends Vehicle implements HasRotor, CargoVehicle {
     public Tanker(final String name, final int year) {

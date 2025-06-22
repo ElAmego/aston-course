@@ -1,4 +1,4 @@
-package dz2;
+package ru.aston.hometask2;
 
 public class Helicopter extends Vehicle implements HasWheels, HasRotor, CargoVehicle {
     public Helicopter(final String name, final int year) {

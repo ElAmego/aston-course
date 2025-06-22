@@ -1,4 +1,4 @@
-package dz2;
+package ru.aston.hometask2;
 
 public class Taxi extends Vehicle implements HasWheels {
     public Taxi(final String name, final int year) {
